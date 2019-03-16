@@ -8,8 +8,8 @@ Baseado no [repo de Gabriel Ferreira](https://github.com/gabrielferreiraa/gerado
 
 ## Getting Started
 
-- Altera a imagem em /public/images/fake-news.jpg
-- Inclua os dados em /src/global.js
+- Altera a imagem em `/public/images/fake-news.jpg`
+- Inclua os dados em `/src/global.js`
 - Este projeto utiliza `create-react-app`
 
 ```sh
