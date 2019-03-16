@@ -1,21 +1,18 @@
 <p align="center">
-  <img src="./public/example.gif" width="500" alt="Gerador de Tweets do Bolsonaro" title="Gerador de Tweets do Bolsonaro"/>
+  <img src="./public/example.gif" width="500" alt="Gerador de Tweets do que quiser" title="Gerador de Tweets do que quiser"/>
 </p>
 
-# Gerador de Tweets do Bolsonaro
+# Gerador de Tweets do que quiser
 
-![GitHub stars](https://img.shields.io/github/stars/gabrielferreiraa/gerador-de-tweet-do-bolsonaro.svg?style=for-the-badge)
-![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/gabrielferreiraa/gerador-de-tweet-do-bolsonaro.svg?style=for-the-badge)
+Baseado no [repo de Gabriel Ferreira](https://github.com/gabrielferreiraa/gerador-de-tweet-do-bolsonaro/) a ideia é mostrar como é "simples" criar uma imagem fake de um tweet.
 
 ## Getting Started
 
-Este projeto utiliza `create-react-app`
+  1 - Altera a imagem em /public/images/fake-news.jpg
+  2 - Inclua os dados em /src/global.js
+  3 - Este projeto utiliza `create-react-app`
 
 ```sh
-# clonar repositório
-$ git clone git@github.com:gabrielferreiraa/gerador-de-tweet-do-bolsonaro.git
-$ cd gerador-de-tweet-do-bolsonaro
-
 # instalar dependências
 $ yarn
 
@@ -28,8 +25,4 @@ $ yarn start
 
 - `yarn start`: Inicia a aplicação em modo de desenvolvimento (`http://localhost:3000`)
 - `yarn build`: Cria um build para produção na pasta `./build`
-- `yarn deploy`: Realiza deploy no Netlify, com endereço -> https://gerador-de-tweet-do-bolsonaro.netlify.com/
-
-## License
-
-MIT License © Gabriel Ferreira
+- `yarn deploy`: Realiza deploy no Netlify, com endereço -> https://gerador-de-tweet-do-que-quiser.netlify.com/

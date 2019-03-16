@@ -1,9 +1,9 @@
 export default {
 	user: {
-		avatar: 'images/bolso.jpg',
-		fullName: 'Jair M. Bolsonaro',
+		avatar: 'images/fake-news.jpg',
+		fullName: 'Fake News',
 		verified: 'images/verified.png',
-		twitter: '@jairbolsonaro'
+		twitter: '@fakenews'
 	},
 	datetime: '04:26 - 6 de mar de 2019',
 	retweets: 65.102,
