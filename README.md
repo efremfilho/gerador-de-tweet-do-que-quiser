@@ -8,9 +8,9 @@ Baseado no [repo de Gabriel Ferreira](https://github.com/gabrielferreiraa/gerado
 
 ## Getting Started
 
-  1 - Altera a imagem em /public/images/fake-news.jpg
-  2 - Inclua os dados em /src/global.js
-  3 - Este projeto utiliza `create-react-app`
+- Altera a imagem em /public/images/fake-news.jpg
+- Inclua os dados em /src/global.js
+- Este projeto utiliza `create-react-app`
 
 ```sh
 # instalar dependências
@@ -24,5 +24,4 @@ $ yarn start
 ## Tasks
 
 - `yarn start`: Inicia a aplicação em modo de desenvolvimento (`http://localhost:3000`)
-- `yarn build`: Cria um build para produção na pasta `./build`
-- `yarn deploy`: Realiza deploy no Netlify, com endereço -> https://gerador-de-tweet-do-que-quiser.netlify.com/
+
